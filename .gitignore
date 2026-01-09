@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore any 3D models used in testing
+*.blend
+*.blend1
+
+dev_assets/
